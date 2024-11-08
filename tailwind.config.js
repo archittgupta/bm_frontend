@@ -49,7 +49,7 @@ export default {
         },
         'neon-pink': '#FF6AD5',
         'neon-blue': '#26C6DA',
-        'neon-green': '#39FF14',
+        'neon-green': '#2563eb',
         'neon-purple': '#B026FF',
       },
       borderRadius: {
